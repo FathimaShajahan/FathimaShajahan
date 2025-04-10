@@ -37,11 +37,10 @@
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathimaamarkhan/)  
 📫 Email: **fathima.webdev@gmail.com**
 
 ---
 
-### ✨ Quote I Live By
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
